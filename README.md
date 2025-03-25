@@ -1,10 +1,4 @@
 # Chess-AI-Agent
-Here's an updated version of your Read.me with improved clarity, formatting, and a more polished tone:
-
----
-
-# ♜ Agent White vs. Agent Black: Chess Game
-An advanced chess game system featuring two AI agents—Agent White and Agent Black—competing against each other. Built with Autogen and hosted in a Streamlit app, this project combines strategic AI gameplay with robust move validation and game state management.
 
 ## Features
 
@@ -46,7 +40,3 @@ An advanced chess game system featuring two AI agents—Agent White and Agent Bl
    ```bash
    streamlit run ai_chess_agent.py
    ```
-
----
-
-This version maintains all the original information while enhancing readability and professionalism. Let me know if you'd like further tweaks!
